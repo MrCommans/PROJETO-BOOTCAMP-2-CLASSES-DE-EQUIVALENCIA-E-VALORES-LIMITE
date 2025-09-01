@@ -164,19 +164,10 @@ Contato
 
 
 
-📍 São Paulo, Brasil
-
-
-
-📧 [Insira seu e-mail]
-
-
-
-🔗 [Insira seu LinkedIn]
-
-
-
-💻 [Insira link do GitHub ou portfólio]
+- 📍 São Paulo, Brasil
+- 📧 luis_commans@hotmail.com
+- 🔗 https://www.linkedin.com/in/danilocommansqa
+- 💻 https://github.com/MrCommans
 
 Obrigado por visitar meu repositório! 🚖
 - **Google Sheets**: Para documentar classes de equivalência e casos de teste no modelo fornecido.
